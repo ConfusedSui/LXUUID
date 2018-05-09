@@ -7,4 +7,6 @@
 2. 检查UserDefaults中的缓存
 3. 检查剪切板中的缓存
 
+流程图如下
 
+![](https://github.com/ConfusedSui/LXUUID/blob/master/LXUUID_flow_chart.png)
