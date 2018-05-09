@@ -11,7 +11,7 @@
 @interface LXUUID : NSObject
 
 /**
- * AHUUID
+ * LXUUID
  */
 + (NSString *)value;
 
