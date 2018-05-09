@@ -12,10 +12,10 @@
 // UUID缓存
 static NSString *AHUUIDCache = nil;
 // key
-static NSString *const AHUUID = @"com.autohome.umsagent.uuid";
-static NSString *const AHAppUUID = @"com.autohome.umsagent.appuuid";
-static NSString *const AHPbType = @"com.autohome.umsagent.pb";
-static NSString *const AHPbSlotID = @"com.autohome.umsagent.pbid";
+static NSString *const AHUUID = @"com.lx.umsagent.uuid";
+static NSString *const AHAppUUID = @"com.lx.umsagent.appuuid";
+static NSString *const AHPbType = @"com.lx.umsagent.pb";
+static NSString *const AHPbSlotID = @"com.lx.umsagent.pbid";
 // 剪切板遍历上限
 static int const AHUUIDRedundancySlots = 100;
 
